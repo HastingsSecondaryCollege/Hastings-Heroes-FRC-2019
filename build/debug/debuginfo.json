@@ -1,0 +1,9 @@
+[
+  {
+    "artifact": "frcJava (in project HastingsHeroes2019v3)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "HastingsHeroes2019v3",
+    "language": "java"
+  }
+]
